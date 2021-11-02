@@ -1,2 +1,6 @@
 # hello-world
-I am new and I want to expirement things
+
+Salutations and felicitations!
+
+I am new to this. *Starting new things is confussing*.
+I wanna challenge my self, rediscover my passion for **learning*
